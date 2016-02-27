@@ -1,0 +1,15 @@
+[submodule "bundles/stewartallen-kicad-parts"]
+	path = bundles/stewartallen-kicad-parts
+	url = git@github.com:stewartallen/kicad-parts.git
+[submodule "bundles/jdunmire_kicad-ESP8266"]
+	path = bundles/jdunmire_kicad-ESP8266
+	url = git@github.com:jdunmire/kicad-ESP8266.git
+[submodule "modules/akn_misc.pretty"]
+	path = modules/akn_misc.pretty
+	url = git@github.com:aniline/akn_misc.pretty.git
+[submodule "modules/akn_transformers.pretty"]
+	path = modules/akn_transformers.pretty
+	url = git@github.com:aniline/akn_transformers.pretty.git
+[submodule "libs"]
+	path = libs
+	url = git@github.com:aniline/akn-kicad-libs.git

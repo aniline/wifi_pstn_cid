@@ -1,0 +1,241 @@
+Cmp-Mod V01 Created by CvPcb (25-Oct-2014 BZR 4029)-stable date = Thu Dec  3 22:30:54 2015
+
+BeginCmp
+TimeStamp = /565F1F1B;
+Reference = C1;
+ValeurCmp = 33nF, 150v;
+IdModule  = C1;
+EndCmp
+
+BeginCmp
+TimeStamp = /565F1F2A;
+Reference = C2;
+ValeurCmp = 33nF, 150V;
+IdModule  = C1;
+EndCmp
+
+BeginCmp
+TimeStamp = /565F1E35;
+Reference = C3;
+ValeurCmp = 220nF, 250V;
+IdModule  = C1;
+EndCmp
+
+BeginCmp
+TimeStamp = /565F2227;
+Reference = C4;
+ValeurCmp = 470nF;
+IdModule  = C1;
+EndCmp
+
+BeginCmp
+TimeStamp = /565F2CEC;
+Reference = C5;
+ValeurCmp = 100nF, 250V;
+IdModule  = C1;
+EndCmp
+
+BeginCmp
+TimeStamp = /565F3338;
+Reference = C6;
+ValeurCmp = C;
+IdModule  = C1;
+EndCmp
+
+BeginCmp
+TimeStamp = /565F30B4;
+Reference = C7;
+ValeurCmp = 22pF;
+IdModule  = C1;
+EndCmp
+
+BeginCmp
+TimeStamp = /565F30D5;
+Reference = C8;
+ValeurCmp = 22pF;
+IdModule  = C1;
+EndCmp
+
+BeginCmp
+TimeStamp = /565F383D;
+Reference = C9;
+ValeurCmp = 22pF;
+IdModule  = C1;
+EndCmp
+
+BeginCmp
+TimeStamp = /565F3843;
+Reference = C10;
+ValeurCmp = 22pF;
+IdModule  = C1;
+EndCmp
+
+BeginCmp
+TimeStamp = /565F20C9;
+Reference = D1;
+ValeurCmp = ZENER 8.2V;
+IdModule  = D3;
+EndCmp
+
+BeginCmp
+TimeStamp = /565F25E5;
+Reference = D2;
+ValeurCmp = W10M;
+IdModule  = CP4;
+EndCmp
+
+BeginCmp
+TimeStamp = /565F20BC;
+Reference = D3;
+ValeurCmp = ZENER 8.2V;
+IdModule  = D3;
+EndCmp
+
+BeginCmp
+TimeStamp = /565F2D60;
+Reference = D4;
+ValeurCmp = ZENER 3.3V;
+IdModule  = D3;
+EndCmp
+
+BeginCmp
+TimeStamp = /565F2D66;
+Reference = D5;
+ValeurCmp = ZENER 3.3V;
+IdModule  = D3;
+EndCmp
+
+BeginCmp
+TimeStamp = /565F3B26;
+Reference = D6;
+ValeurCmp = LED;
+IdModule  = SM0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /565F2139;
+Reference = IC1;
+ValeurCmp = 4N35;
+IdModule  = DIP6;
+EndCmp
+
+BeginCmp
+TimeStamp = /565F1DCE;
+Reference = IC2;
+ValeurCmp = ATTINY84-P;
+IdModule  = DIP14;
+EndCmp
+
+BeginCmp
+TimeStamp = /56488792;
+Reference = J1;
+ValeurCmp = RJ11;
+IdModule  = RJ11-6;
+EndCmp
+
+BeginCmp
+TimeStamp = /565F1D61;
+Reference = J2;
+ValeurCmp = RJ11;
+IdModule  = SM1206;
+EndCmp
+
+BeginCmp
+TimeStamp = /565F2758;
+Reference = R1;
+ValeurCmp = 100K;
+IdModule  = SM1206;
+EndCmp
+
+BeginCmp
+TimeStamp = /565F21CE;
+Reference = R2;
+ValeurCmp = 474K;
+IdModule  = SM1206;
+EndCmp
+
+BeginCmp
+TimeStamp = /565F2D82;
+Reference = R3;
+ValeurCmp = 10K;
+IdModule  = SM1206;
+EndCmp
+
+BeginCmp
+TimeStamp = /565F2E72;
+Reference = R4;
+ValeurCmp = 10K;
+IdModule  = SM1206;
+EndCmp
+
+BeginCmp
+TimeStamp = /565F2542;
+Reference = R5;
+ValeurCmp = 10K;
+IdModule  = SM1206;
+EndCmp
+
+BeginCmp
+TimeStamp = /565F33E9;
+Reference = R6;
+ValeurCmp = R;
+IdModule  = SM1206;
+EndCmp
+
+BeginCmp
+TimeStamp = /565F3619;
+Reference = R7;
+ValeurCmp = 10K;
+IdModule  = SM1206;
+EndCmp
+
+BeginCmp
+TimeStamp = /565F3C0D;
+Reference = R8;
+ValeurCmp = 1K;
+IdModule  = SM1206;
+EndCmp
+
+BeginCmp
+TimeStamp = /565F242B;
+Reference = RV1;
+ValeurCmp = 10K;
+IdModule  = POT_CMS;
+EndCmp
+
+BeginCmp
+TimeStamp = /565F1D2F;
+Reference = T1;
+ValeurCmp = 600-Ohm 1:1;
+IdModule  = TRANSF-MICRO;
+EndCmp
+
+BeginCmp
+TimeStamp = /565F2305;
+Reference = U1;
+ValeurCmp = LM393;
+IdModule  = DIP-8__300;
+EndCmp
+
+BeginCmp
+TimeStamp = /565F2B44;
+Reference = U2;
+ValeurCmp = HT9032D;
+IdModule  = DIP-8__300;
+EndCmp
+
+BeginCmp
+TimeStamp = /565F301E;
+Reference = X1;
+ValeurCmp = 3.579545Mhz;
+IdModule  = crystal-HC49/S;
+EndCmp
+
+BeginCmp
+TimeStamp = /565F3826;
+Reference = X2;
+ValeurCmp = 8.0 Mhz;
+IdModule  = crystal-HC49/S;
+EndCmp
+
+EndListe

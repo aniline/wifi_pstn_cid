@@ -1,0 +1,6 @@
+(fp_lib_table
+  (lib (name connectors)(type Legacy)(uri ${KIPRJMOD}/bundles/stewartallen-kicad-parts/modules/connectors.mod)(options "")(descr ""))
+  (lib (name akn_transformers)(type KiCad)(uri ${KIPRJMOD}/modules/akn_transformers.pretty)(options "")(descr ""))
+  (lib (name akn_misc)(type KiCad)(uri ${KIPRJMOD}/modules/akn_misc.pretty)(options "")(descr ""))
+  (lib (name ESP8266)(type KiCad)(uri ${KIPRJMOD}/bundles/jdunmire_kicad-ESP8266/ESP8266.pretty)(options "")(descr ""))
+)
